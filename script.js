@@ -5,7 +5,7 @@ const animals = [
   { name: 'GATO', image: 'images/gato.png' },
   { name: 'ZEBRA', image: 'images/zebra.png' },
   { name: 'COBRA', image: 'images/cobra.png' },
-  { name: 'URSO PANDA', image: 'images/urso_panda.png' },
+  { name: 'PANDA', image: 'images/panda.png' },
   { name: 'CACHORRO', image: 'images/cachorro.png' },
   { name: 'GORILA', image: 'images/gorila.png' },
   { name: 'TIGRE', image: 'images/tigre.png' },
